@@ -7,6 +7,13 @@
   min-height: 100vh;
 }
 
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
